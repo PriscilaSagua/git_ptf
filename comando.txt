@@ -1,0 +1,4 @@
+1. Git init(inicializar)
+2. git add nombre-archivo o git add . (agrega archivo a repositorio)
+3. git commit -m "mensaje" (punto de guardado del curso).
+4. git remote add origin https://github.com/PriscilaSagua/git_ptf.git (ligar con repositorio remoto)
