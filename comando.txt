@@ -2,3 +2,12 @@
 2. git add nombre-archivo o git add . (agrega archivo a repositorio)
 3. git commit -m "mensaje" (punto de guardado del curso).
 4. git remote add origin https://github.com/PriscilaSagua/git_ptf.git (ligar con repositorio remoto)
+5. git push -u origin master o git push -u origin main
+
+
+-----
+para subir cambios:
+
+2
+3
+5
